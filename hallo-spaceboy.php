@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Hallo Spaceboy
-Plugin URI: https://gist.github.com/lukecav/59eda7cfcafccd75445ae9bca222d702
+Plugin URI: https://github.com/lukecav/hallo-spaceboy
 Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by David Bowie: Hallo Spaceboy. When activated you will randomly see a lyric from <cite>Hallo Spaceboy</cite> in the upper right of your admin screen on every page.
 Author: Luke Cavanagh
 Version: 1.7
